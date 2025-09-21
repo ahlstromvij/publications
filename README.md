@@ -10,14 +10,14 @@
 - [*Magkänslans Anatomi* (“The Anatomy of Gut Feelings”)](http://www.bokus.com/bok/9789174270143/magkanslans-anatomi-om-hur-vi-bor-tanka-och-nar-vi-gor-bast-i-att-lata-bli/). Bonniers, 2010.  
 
 ## Journal Articles (Selected)
-- “Communicating Economic Evidence about Immigration Changes Attitudes and Policy Preferences.” *International Migration Review* (forthcoming).  [PDF](https://journals.sagepub.com/doi/10.1177/01979183221142779)
-- “On the Robustness of Social-Circle Surveys: Respondent Selection Issues, Egocentrism, and Homophily.” *Electoral Studies* (forthcoming). [PDF](https://www.dropbox.com/s/emkr0hqd7hxundp/ahlstromvij-social_circles.pdf?dl=1)  
-- “As We Like It: Did the UK’s 2016 EU Referendum Reveal the ‘Will of the People?’” (with W. Allen). *PS: Political Science & Politics* (forthcoming).  
-- “Why We Should Stop Fetishising Democracy.” *Journal of Philosophical Research* (forthcoming). [PDF](https://www.dropbox.com/s/0x6ion7ikn5g8wf/AhlstromVij-FetishizingDemocracy.pdf?dl=0)  
-- “Do We Live in a ‘Post-Truth’ Era?” *Political Studies* (forthcoming). [PDF](https://www.dropbox.com/s/ixip1u6qhdr67jr/AhlstromVij-Post_truth.pdf?dl=1)  
-- “Why no True Reliabilist Should Endorse Reliabilism” (with J. Dunn). *Episteme* (forthcoming). [PDF](https://www.dropbox.com/s/syikwojaldykdgu/AhlstromVij_Dunn-Reliabilism.pdf?dl=1)  
-- “The Case for Modelled Democracy.” *Episteme* (forthcoming). [PDF](https://www.dropbox.com/s/mj95o1o28850zpz/AhlstromVij-MD.pdf?dl=1)  
-- “Esoteric Reliabilism.” *Episteme* (forthcoming). [PDF](https://www.dropbox.com/s/oeu92uifg51cbjw/AhlstromVij-EsotericReliabilism.pdf?dl=1)  
+- “Communicating Economic Evidence about Immigration Changes Attitudes and Policy Preferences.” *International Migration Review*, Volume 58(1), 2023. [PDF](https://journals.sagepub.com/doi/10.1177/01979183221142779)
+- “As We Like It: Did the UK’s 2016 EU Referendum Reveal the ‘Will of the People?’” (with W. Allen). *PS: Political Science & Politics*, Volume 56(4), 2023. [PDF](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/as-we-like-it-did-the-uks-2016-eu-referendum-reveal-the-will-of-the-people/4AB717EDF474492D3C854EA7C5970A6C)
+- “On the Robustness of Social-Circle Surveys: Respondent Selection Issues, Egocentrism, and Homophily.” *Electoral Studies*, Volume 75, February 2022. [PDF](https://www.dropbox.com/s/emkr0hqd7hxundp/ahlstromvij-social_circles.pdf?dl=1)  
+- “Why We Should Stop Fetishising Democracy.” *Journal of Philosophical Research*, Volume 46, 2021. [PDF](https://www.dropbox.com/s/0x6ion7ikn5g8wf/AhlstromVij-FetishizingDemocracy.pdf?dl=0)  
+- “Do We Live in a ‘Post-Truth’ Era?” *Political Studies*, Volume 71, Issue 2, May 2023. [PDF](https://www.dropbox.com/s/ixip1u6qhdr67jr/AhlstromVij-Post_truth.pdf?dl=1)  
+- “Why no True Reliabilist Should Endorse Reliabilism” (with J. Dunn). *Episteme*, Volume 20, Issue 1, March 2023. [PDF](https://www.dropbox.com/s/syikwojaldykdgu/AhlstromVij_Dunn-Reliabilism.pdf?dl=1)  
+- “The Case for Modelled Democracy.” *Episteme*, Volume 19, Issue 1, March 2022. [PDF](https://www.dropbox.com/s/mj95o1o28850zpz/AhlstromVij-MD.pdf?dl=1)  
+- “Esoteric Reliabilism.” *Episteme* Volume 18 , Issue 4, December 2021. [PDF](https://www.dropbox.com/s/oeu92uifg51cbjw/AhlstromVij-EsotericReliabilism.pdf?dl=1)  
 - “Self-resolving Information Markets: A Comparative Study.” *Journal of Prediction Markets* 13(1), 2019. [PDF](https://www.dropbox.com/s/puagox6m4hx9r6c/AhlstromVij-SRIM.pdf?dl=1)  
 - “Self-resolving Information Markets: An Experimental Case Study” (with N. Williams). *Journal of Prediction Markets* 12(2), 2018. [PDF](https://www.dropbox.com/s/5tb7miajn9nb2ri/SRIM-JPM.pdf?dl=1)  
 - “Is Democracy an Option for the Realist?” *Critical Review* 30(1–2), 2018. [PDF](https://www.dropbox.com/s/9lix5qcvsndxfua/AhlstromVij-AchenBartelsCR.pdf?dl=1)  
